@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AnalogClock/AnalogClock.iml" filepath="$PROJECT_DIR$/AnalogClock/AnalogClock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Digital clock/Digital clock.iml" filepath="$PROJECT_DIR$/Digital clock/Digital clock.iml" />
       <module fileurl="file://$PROJECT_DIR$/Graphics.iml" filepath="$PROJECT_DIR$/Graphics.iml" />
     </modules>
   </component>
